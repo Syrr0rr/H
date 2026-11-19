@@ -1,0 +1,14 @@
+Line 37 | Invalid quantity: abc 
+Line 128 | Invalid quantity:  
+Line 219 | Invalid total:  
+Line 341 | Invalid name: ''
+Line 468 | Invalid quantity: -2 
+Line 468 | Invalid total: -99.98 
+Line 572 | Invalid total: not_a_price 
+Line 689 | Invalid Item: ' ' 
+Line 743 | Invalid total:  
+Line 866 | Invalid total:  
+Line 974 | Invalid total: -39.99 
+Line 1082 | Invalid quantity: 2.5 
+Line 1167 | Invalid quantity: 0 
+Line 1167 | Invalid total: 0 
